@@ -1,0 +1,20 @@
+[
+    {"value_type":"A","value_type_text":"DISCRETE SINGLE MEAS"},
+    {"value_type":"B","value_type_text":"BULKED SAMPLE AVERAG"},
+    {"value_type":"C","value_type_text":"TIME AVERAGE DISCRET"},
+    {"value_type":"D","value_type_text":"GEOGRAPHICAL AVERAGE"},
+    {"value_type":"E","value_type_text":"CENTRE POINT OF QUOT"},
+    {"value_type":"F","value_type_text":"TIME & GEOGRAPHICAL"},
+    {"value_type":"G","value_type_text":"HIGHEST VALUE"},
+    {"value_type":"H","value_type_text":"TIME AVERAGE (MONTH)"},
+    {"value_type":"I","value_type_text":"TIME AVERAGE (3 MONT"},
+    {"value_type":"J","value_type_text":"DISCRETE SAMPLE FROM"},
+    {"value_type":"K","value_type_text":"DISCRETE SAMPLE FROM"},
+    {"value_type":"L","value_type_text":"TIME AVERAGE (YEAR)"},
+    {"value_type":"M","value_type_text":"TIME AVERAGE (2 MONT"},
+    {"value_type":"N","value_type_text":"TIME AVERAGE (6 MONT"},
+    {"value_type":"O","value_type_text":"LOWEST VALUE"},
+    {"value_type":"P","value_type_text":"TIME AVERAGE (WEEK)"},
+    {"value_type":"?","value_type_text":"UNKNOWN"},
+    {"value_type":"Z","value_type_text":"NOT Specified"}
+]
