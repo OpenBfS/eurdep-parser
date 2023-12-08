@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>bfs</groupId>
     <artifactId>eurdep-parser</artifactId>
-    <version>1.3.4</version>
+    <version>1.3.5-SNAPSHOT</version>
     <properties>
         <antlr.version>4.9.2</antlr.version>
         <maven.compiler.source>11</maven.compiler.source>
